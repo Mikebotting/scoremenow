@@ -1,4 +1,4 @@
-# telegram-scorebot
+# telegram-testpointscore
 A simple Telegram bot that can keep a score in a group.
 A public instance is running here: https://t.me/keeping_score_bot
 
@@ -14,7 +14,7 @@ A public instance is running here: https://t.me/keeping_score_bot
 
 ## Docker
 ### Building
-`docker build -t telegram-scorebot .`
+`docker build -t 
 
 ### docker-compose
 1. Edit docker-compose.yml and add Telegram bot token
